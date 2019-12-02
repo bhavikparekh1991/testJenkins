@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suit" duration-ms="214705" started-at="2019-11-29T10:43:50Z" finished-at="2019-11-29T10:47:25Z">
+    <groups>
+    </groups>
+    <test name="Login test_CH" duration-ms="214705" started-at="2019-11-29T10:43:50Z" finished-at="2019-11-29T10:47:25Z">
+      <class name="testJenkins.testJenkins.AppTest">
+        <test-method status="PASS" signature="Jtest()[pri:0, instance:testJenkins.testJenkins.AppTest@5594a1b5]" name="Jtest" duration-ms="214652" started-at="2019-11-29T16:13:50Z" finished-at="2019-11-29T16:17:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jtest -->
+      </class> <!-- testJenkins.testJenkins.AppTest -->
+    </test> <!-- Login test_CH -->
+  </suite> <!-- Regression Suit -->
+</testng-results>

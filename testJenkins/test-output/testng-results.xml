@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116026" started-at="2019-11-29T09:26:35Z" finished-at="2019-11-29T09:28:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116026" started-at="2019-11-29T09:26:35Z" finished-at="2019-11-29T09:28:31Z">
+      <class name="testJenkinns.testJenkinns.AppTest">
+        <test-method status="PASS" signature="Jtest()[pri:0, instance:testJenkinns.testJenkinns.AppTest@5ae9a829]" name="Jtest" duration-ms="116008" started-at="2019-11-29T14:56:35Z" finished-at="2019-11-29T14:58:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jtest -->
+      </class> <!-- testJenkinns.testJenkinns.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
