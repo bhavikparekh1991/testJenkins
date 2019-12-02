@@ -23,7 +23,7 @@ public class AppTest
 		// Open facebook
 		//driver.get("http://www.facebook.com");
 		 
-		// Maximize browser
+		// Maximize browser test
 		 System.out.println("Hello World");
 		//driver.manage().window().maximize();
 		//Thread.sleep(2000);
