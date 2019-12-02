@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Regression Suit" duration-ms="214705" started-at="2019-11-29T10:43:50Z" finished-at="2019-11-29T10:47:25Z">
+  <suite name="Regression Suit" duration-ms="74853" started-at="2019-12-02T13:41:24Z" finished-at="2019-12-02T13:42:39Z">
     <groups>
     </groups>
-    <test name="Login test_CH" duration-ms="214705" started-at="2019-11-29T10:43:50Z" finished-at="2019-11-29T10:47:25Z">
+    <test name="Login test_CH" duration-ms="74853" started-at="2019-12-02T13:41:24Z" finished-at="2019-12-02T13:42:39Z">
       <class name="testJenkins.testJenkins.AppTest">
-        <test-method status="PASS" signature="Jtest()[pri:0, instance:testJenkins.testJenkins.AppTest@5594a1b5]" name="Jtest" duration-ms="214652" started-at="2019-11-29T16:13:50Z" finished-at="2019-11-29T16:17:25Z">
+        <test-method status="PASS" signature="Jtest()[pri:0, instance:testJenkins.testJenkins.AppTest@49e4cb85]" name="Jtest" duration-ms="74822" started-at="2019-12-02T19:11:24Z" finished-at="2019-12-02T19:12:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Jtest -->
